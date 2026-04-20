@@ -22,14 +22,6 @@ const lastBook: Book = {
     isAvailable: false
 };
 
-/*
-const brokenBook: Book = {
-    title: 123,
-    pages: "a lot",
-    isAvailable: "yes"
-};
-*/
-
 const library: Book[] = [myBook];
 
 library.push(anotherBook);
